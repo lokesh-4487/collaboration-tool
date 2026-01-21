@@ -23,3 +23,4 @@ In terms of tools, Visual Studio Code was used as the code editor because of its
 Overall, this Real-Time Collaboration Tool project gave me practical exposure to full-stack web development concepts. It helped me connect theoretical knowledge with real implementation. Building this project improved my confidence in working with backend servers, handling real-time communication, and integrating frontend and backend components effectively. The project serves as a strong foundation for understanding advanced collaborative applications and real-time systems used in modern web development.
 
 ##Output
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/16e0b433-3fb7-43de-b7ae-2367cfd596c0" />
