@@ -24,3 +24,4 @@ Overall, this Real-Time Collaboration Tool project gave me practical exposure to
 
 ##Output
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/16e0b433-3fb7-43de-b7ae-2367cfd596c0" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/c1a6c350-fbf1-40f5-a619-66320b799144" />
